@@ -48,10 +48,13 @@
       }
       .tag {
         font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif;
-        font-size: 18px;
-        font-weight: 680;
-        letter-spacing: 0.8px;
-        fill: #F7F4EE;
+        font-size: 16px;
+        font-weight: 700;
+        letter-spacing: 1.6px;
+        fill: #DDE3E1;
+      }
+      .dot {
+        fill: #F2A51A;
       }
     </style>
   </defs>
@@ -94,20 +97,13 @@
     <text class="copy" x="4" y="178">Build tools. Codify workflows. Compound solo-company leverage.</text>
   </g>
 
-  <g transform="translate(402 302)">
-    <rect width="142" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
-    <text class="tag" x="24" y="27">TOOLS</text>
-  </g>
-  <g transform="translate(564 302)">
-    <rect width="178" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
-    <text class="tag" x="24" y="27">PLAYBOOKS</text>
-  </g>
-  <g transform="translate(762 302)">
-    <rect width="144" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
-    <text class="tag" x="24" y="27">SKILLS</text>
-  </g>
-  <g transform="translate(932 302)">
-    <rect width="186" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
-    <text class="tag" x="25" y="27">STANDARDS</text>
+  <g transform="translate(404 318)">
+    <text class="tag" x="0" y="0">TOOLS</text>
+    <circle class="dot" cx="94" cy="-6" r="4"/>
+    <text class="tag" x="116" y="0">PLAYBOOKS</text>
+    <circle class="dot" cx="258" cy="-6" r="4"/>
+    <text class="tag" x="280" y="0">SKILLS</text>
+    <circle class="dot" cx="382" cy="-6" r="4"/>
+    <text class="tag" x="404" y="0">STANDARDS</text>
   </g>
 </svg>
