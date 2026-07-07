@@ -1,0 +1,113 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">iwantools AI Coding Operating System</title>
+  <desc id="desc">A premium banner for iwantools, a one-person company building an AI coding operating system.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111417"/>
+      <stop offset="0.58" stop-color="#18201F"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(935 90) rotate(125) scale(420 240)">
+      <stop stop-color="#F2A51A" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#F2A51A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(360 325) rotate(-25) scale(360 210)">
+      <stop stop-color="#2F8580" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#2F8580" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#000000" flood-opacity="0.34"/>
+    </filter>
+    <style>
+      .paper { fill: #F7F4EE; }
+      .ink { fill: #111417; }
+      .amber { fill: #F2A51A; }
+      .teal { fill: #2F8580; }
+      .muted { fill: #B8C0C2; }
+      .line { stroke: #F7F4EE; stroke-opacity: 0.12; }
+      .wordmark {
+        font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif;
+        font-size: 82px;
+        font-weight: 760;
+        letter-spacing: 0;
+        fill: #F7F4EE;
+      }
+      .headline {
+        font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif;
+        font-size: 32px;
+        font-weight: 650;
+        letter-spacing: 0;
+        fill: #F7F4EE;
+      }
+      .copy {
+        font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 460;
+        letter-spacing: 0;
+        fill: #B8C0C2;
+      }
+      .tag {
+        font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 680;
+        letter-spacing: 0.8px;
+        fill: #F7F4EE;
+      }
+    </style>
+  </defs>
+
+  <rect width="1280" height="420" rx="34" fill="url(#panel)"/>
+  <rect width="1280" height="420" rx="34" fill="url(#glowA)"/>
+  <rect width="1280" height="420" rx="34" fill="url(#glowB)"/>
+
+  <g opacity="0.36">
+    <path d="M0 92H1280" class="line"/>
+    <path d="M0 210H1280" class="line"/>
+    <path d="M0 328H1280" class="line"/>
+    <path d="M160 0V420" class="line"/>
+    <path d="M406 0V420" class="line"/>
+    <path d="M652 0V420" class="line"/>
+    <path d="M898 0V420" class="line"/>
+    <path d="M1144 0V420" class="line"/>
+  </g>
+
+  <g transform="translate(92 86)" filter="url(#softShadow)">
+    <rect width="248" height="248" rx="56" fill="#F7F4EE" fill-opacity="0.98"/>
+    <g transform="translate(33 33)">
+      <rect width="182" height="182" rx="38" class="ink"/>
+      <rect x="33" y="33" width="31" height="31" rx="8" class="paper"/>
+      <rect x="75" y="32.5" width="32" height="32" rx="10" class="amber"/>
+      <rect x="118" y="33" width="31" height="31" rx="8" class="paper"/>
+      <rect x="33" y="75" width="31" height="32" rx="9" class="teal"/>
+      <circle cx="91" cy="91" r="15.5" class="paper"/>
+      <rect x="118" y="75" width="31" height="32" rx="8" class="paper"/>
+      <rect x="33" y="118" width="31" height="31" rx="8" class="paper"/>
+      <rect x="75" y="118" width="32" height="31" rx="8" class="paper"/>
+      <path d="M118 118H149V133.5C149 142.06 142.06 149 133.5 149H118V118Z" class="paper"/>
+      <path d="M149 118V149H118L149 118Z" class="ink"/>
+    </g>
+  </g>
+
+  <g transform="translate(398 86)">
+    <text class="wordmark" x="0" y="78">iwantools</text>
+    <text class="headline" x="3" y="132">AI Coding Operating System</text>
+    <text class="copy" x="4" y="178">Build tools. Codify workflows. Compound solo-company leverage.</text>
+  </g>
+
+  <g transform="translate(402 302)">
+    <rect width="142" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
+    <text class="tag" x="24" y="27">TOOLS</text>
+  </g>
+  <g transform="translate(564 302)">
+    <rect width="178" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
+    <text class="tag" x="24" y="27">PLAYBOOKS</text>
+  </g>
+  <g transform="translate(762 302)">
+    <rect width="144" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
+    <text class="tag" x="24" y="27">SKILLS</text>
+  </g>
+  <g transform="translate(932 302)">
+    <rect width="186" height="42" rx="21" fill="#F7F4EE" fill-opacity="0.1" stroke="#F7F4EE" stroke-opacity="0.18"/>
+    <text class="tag" x="25" y="27">STANDARDS</text>
+  </g>
+</svg>
