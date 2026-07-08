@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/iwantools/.github@main/profile/assets/banner.png" alt="iwantools - AI Coding Operating System" width="100%" />
+  <img src="https://github.com/iwantools/.github/releases/download/profile-assets-v1/banner.png" alt="iwantools - AI Coding Operating System" width="100%" />
 </p>
 
 <p align="center">
