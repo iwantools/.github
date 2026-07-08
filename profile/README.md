@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="iwantools - AI Coding Operating System" width="100%" />
+  <img src="./assets/banner.png" alt="iwantools - AI Coding Operating System" width="100%" />
 </p>
 
 <p align="center">
