@@ -23,6 +23,7 @@
 | --- | --- |
 | [`iwan-admin`](https://github.com/iwantools/iwan-admin) | Iwan Admin 官方基座（私有，付费交付） |
 | [`iwantools-site-ops`](https://github.com/iwantools/iwantools-site-ops) | 首个客户工程：爱玩工具站运营后台（私有） |
+| [`ai-skills`](https://github.com/iwantools/ai-skills) | 组织 AI Coding Skills 源码仓（私有） |
 | `.github` | 本仓库：组织主页 Profile 与组织级默认配置 |
 
 ## 合作方式
