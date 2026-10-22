@@ -1,0 +1,21 @@
+<svg width="204" height="204" viewBox="0 0 204 204" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">iwantools mark</title>
+  <desc id="desc">The iwantools final nine-grid mark.</desc>
+  <style>
+    .ink { fill: #111417; }
+    .paper { fill: #F7F4EE; }
+    .amber { fill: #F2A51A; }
+    .teal { fill: #2F8580; }
+  </style>
+  <rect x="0" y="0" width="204" height="204" rx="42" class="ink"/>
+  <rect x="37" y="37" width="35" height="35" rx="9" class="paper"/>
+  <rect x="84.5" y="36.5" width="36" height="36" rx="11" class="amber"/>
+  <rect x="132" y="37" width="35" height="35" rx="9" class="paper"/>
+  <rect x="37" y="84.5" width="35" height="36" rx="10" class="teal"/>
+  <circle cx="102" cy="102" r="17.5" class="paper"/>
+  <rect x="132" y="84.5" width="35" height="36" rx="9" class="paper"/>
+  <rect x="37" y="132" width="35" height="35" rx="9" class="paper"/>
+  <rect x="84.5" y="132" width="35.5" height="35" rx="9" class="paper"/>
+  <path d="M132 132H167V149.5C167 159.165 159.165 167 149.5 167H132V132Z" class="paper"/>
+  <path d="M167 132V167H132L167 132Z" class="ink"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">iwantools logo</title>
+  <desc id="desc">The iwantools final logo: a dark rounded nine-grid mark with amber and teal active modules, paired with a lowercase wordmark.</desc>
+  <rect width="960" height="360" fill="#F7F4EE"/>
+
+  <style>
+    .ink { fill: #111417; }
+    .paper { fill: #F7F4EE; }
+    .amber { fill: #F2A51A; }
+    .teal { fill: #2F8580; }
+    .wordmark {
+      font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif;
+      font-size: 76px;
+      font-weight: 720;
+      letter-spacing: 0;
+      fill: #111417;
+    }
+    .tagline {
+      font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif;
+      font-size: 22px;
+      font-weight: 520;
+      letter-spacing: 0;
+      fill: #4F5658;
+    }
+  </style>
+
+  <g transform="translate(120 78)">
+    <rect x="0" y="0" width="204" height="204" rx="42" class="ink"/>
+
+    <rect x="37" y="37" width="35" height="35" rx="9" class="paper"/>
+    <rect x="84.5" y="36.5" width="36" height="36" rx="11" class="amber"/>
+    <rect x="132" y="37" width="35" height="35" rx="9" class="paper"/>
+
+    <rect x="37" y="84.5" width="35" height="36" rx="10" class="teal"/>
+    <circle cx="102" cy="102" r="17.5" class="paper"/>
+    <rect x="132" y="84.5" width="35" height="36" rx="9" class="paper"/>
+
+    <rect x="37" y="132" width="35" height="35" rx="9" class="paper"/>
+    <rect x="84.5" y="132" width="35.5" height="35" rx="9" class="paper"/>
+    <path d="M132 132H167V149.5C167 159.165 159.165 167 149.5 167H132V132Z" class="paper"/>
+    <path d="M167 132V167H132L167 132Z" class="ink"/>
+  </g>
+
+  <text x="382" y="164" class="wordmark">iwantools</text>
+  <text x="386" y="214" class="tagline">AI coding operating system</text>
+
+  <g transform="translate(812 108)">
+    <rect x="0" y="0" width="108" height="108" rx="24" class="ink"/>
+    <rect x="20" y="20" width="18.5" height="18.5" rx="4.8" class="paper"/>
+    <rect x="45" y="19.5" width="19" height="19" rx="5.8" class="amber"/>
+    <rect x="69.5" y="20" width="18.5" height="18.5" rx="4.8" class="paper"/>
+    <rect x="20" y="45" width="18.5" height="19" rx="5.2" class="teal"/>
+    <circle cx="54" cy="54" r="9.5" class="paper"/>
+    <rect x="69.5" y="45" width="18.5" height="19" rx="4.8" class="paper"/>
+    <rect x="20" y="69.5" width="18.5" height="18.5" rx="4.8" class="paper"/>
+    <rect x="45" y="69.5" width="19" height="18.5" rx="4.8" class="paper"/>
+    <path d="M69.5 69.5H88V78.75C88 83.859 83.859 88 78.75 88H69.5V69.5Z" class="paper"/>
+    <path d="M88 69.5V88H69.5L88 69.5Z" class="ink"/>
+  </g>
+</svg>
